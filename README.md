@@ -45,7 +45,7 @@ The application supports multiple windows, persistent data storage, and full use
   - Manage registered players
   - Store and retrieve quiz results
 - All relevant data is handled dynamically at runtime
-- 
+  
 ---
 
 ## Technologies
